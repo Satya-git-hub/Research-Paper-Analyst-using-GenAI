@@ -1,5 +1,6 @@
 # Research-Paper-Analyst-using-GenAI
 ## Objective
+### Focus - Chat with ChatGPT saving past conversation in list
 Make ChatGPT act as an AI expert and transform the given research paper abstract based on the nature of the audience mentioned below.
 - Short summary of max 10 lines for a general audience
 - Detailed report for a health care company. Have bullet points for pros and cons of etcsin Generative AI as mentioned in the paper.
